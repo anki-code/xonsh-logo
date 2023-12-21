@@ -1,2 +1,3 @@
 # xonsh-logo
-The xonsh logo, design and pictures for illustrations, stickers, t-shirts, articles, etc
+
+The xonsh logo, design and pictures are in [5142](https://github.com/xonsh/xonsh/issues/5142).
