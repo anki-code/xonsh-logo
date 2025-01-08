@@ -1,5 +1,7 @@
 # xonsh-logo
 
+### The list of images
+
 The xonsh logo, design and pictures are in [5142](https://github.com/xonsh/xonsh/issues/5142) now. Will be here soon.
 
 ### iTerm2 icon for xonsh shell
