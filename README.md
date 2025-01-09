@@ -23,3 +23,5 @@ How to create your own icon:
 4. Add `icon_` prefix to all files in the directory.
 5. On MacOS run `iconutil -c icns icon.iconset` to create `icon.iconset` file.
 6. Now you can change the icon.
+
+Note! You can use this icon for any terminal emulator.
