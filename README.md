@@ -13,7 +13,7 @@ Example:
 How to change iTerm2 icon:
 
 1. Download [iTerm2-green-xonsh-shell.icns](https://github.com/anki-code/xonsh-logo/blob/main/iTerm2-green-xonsh-shell.icns).
-2. [Change icon](https://support.apple.com/en-gb/guide/mac-help/mchlp2313/mac).
+2. [Change icon](https://support.apple.com/en-gb/guide/mac-help/mchlp2313/mac): open `Applications`, open menu for `iTerm2`, click `Get info` and drag and drop `icon.iconset` to iTerm2 icon. Now close iTerm2 and remove it from dock. On next clean iTerm2 start you will see new icon.
 
 How to create your own icon:
 
@@ -22,5 +22,4 @@ How to create your own icon:
 3. Rename the directory with images to `icon.iconset`.
 4. Add `icon_` prefix to all files in the directory.
 5. On MacOS run `iconutil -c icns icon.iconset` to create `icon.iconset` file.
-
-Now you can open `Applications`, open menu for `iTerm2`, click `Get info` and drag and drop `icon.iconset` to iTerm2 icon. Now close iTerm2 and remove it from dock. On next clean iTerm2 start you will see new icon.
+6. Now you can change the icon.
