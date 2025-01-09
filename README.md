@@ -56,11 +56,11 @@ From [logo.txt](https://github.com/xonsh/xonsh/blob/main/logo.txt):
 
 ![image](https://github.com/xonsh/xonsh/assets/1708680/70afbdc8-a1f2-4814-9e03-fed7ca1866c6)
 
-### The list of images
+## More images
 
 The xonsh logo, design and pictures are in [5142](https://github.com/xonsh/xonsh/issues/5142) now. Will be here soon.
 
-### iTerm2 icon for xonsh shell
+## iTerm2 icon for xonsh shell
 
 Example:
 
