@@ -1,5 +1,7 @@
 # xonsh-logo
 
+![image](xonsh_design_concept.png)
+
 ## Text
 
 ### One line logo
