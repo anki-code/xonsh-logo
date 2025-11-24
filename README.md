@@ -5,9 +5,10 @@
 ## Text
 
 ### One line logo
-```
-@ xonsh
-```
+
+| short | long |
+|---|---|
+| `@ xonsh` | `@ xonsh shell` |
 
 ### ASCII-art logo
 From [logo.txt](https://github.com/xonsh/xonsh/blob/main/logo.txt): 
