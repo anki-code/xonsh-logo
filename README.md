@@ -57,7 +57,7 @@ From [logo.txt](https://github.com/xonsh/xonsh/blob/main/logo.txt):
 
 ### ASCII-art logo
 
-![image](https://github.com/xonsh/xonsh/assets/1708680/70afbdc8-a1f2-4814-9e03-fed7ca1866c6)
+![image](https://github.com/xonsh/xonsh/assets/1708680/70afbdc8-a1f2-4814-9e03-fed7ca1866c6) &nbsp; &nbsp; &nbsp; &nbsp; ![image](conch_ascii_with_icon.png)
 
 ## More images
 
